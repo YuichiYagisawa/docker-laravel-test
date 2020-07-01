@@ -7,8 +7,8 @@
 * phpmyadmin/phpmyadmin
 
 ## What to do after cloning
-1. composer install
+1. Change directory to app　`composer install` 
 
-2. php artisan key:generate
+2. `docker-compose exec php bash`,`php artisan key:generate`
 
-3. dbの.env変更
+3. Change .env of db
