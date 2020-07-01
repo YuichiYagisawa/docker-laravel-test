@@ -1,7 +1,7 @@
 # laravel-make-test
 
-composer install
+1.composer install
 
-php artisan key:generate
+2.php artisan key:generate
 
-dbの.env変更
+3.dbの.env変更
