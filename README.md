@@ -14,5 +14,5 @@
 3. Change .env of db
 
 ## port
-http://localhost:8000
-http://localhost:3000
+* http://localhost:8000 (Laravel) 
+* http://localhost:3000 (phpmyadmin)
