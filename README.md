@@ -1,8 +1,8 @@
 # docker-laravel
 
 ## Constitution
-* nginx:1.17-alpine
-* php:7.3-fpm-alpine
+* nginx:1.15.6
+* php:7.2-fpm
 * mysql:8.0
 * phpmyadmin/phpmyadmin
 
