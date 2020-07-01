@@ -12,3 +12,7 @@
 2. `docker-compose exec php bash`,`php artisan key:generate`
 
 3. Change .env of db
+
+## port
+http://localhost:8000
+http://localhost:3000
